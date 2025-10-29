@@ -1,0 +1,10 @@
+package h1;
+
+public class H1_Main {
+    public static void main(String[] args) {
+        int z=15;
+        if (z>10)
+            z= z-10;
+        System.out.println(z);
+    }
+}
